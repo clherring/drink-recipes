@@ -1,0 +1,15 @@
+{
+  "name": "drink-recipes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christie Herring <clherring@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "nodemon": "^2.0.6"
+  }
+}
